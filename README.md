@@ -17,23 +17,23 @@ Clone the repository or download the project as a ZIP file.
 ```bash
 git clone <repository-url>
 cd <project-directory>
+```
 2. Build the Docker Image
 Run the following command to build the Docker image:
 
-bash
-Copy code
+```bash
 docker build -t my-java-app .
+```
 3. Run the Docker Container
 To start the application, use:
 
-bash
-Copy code
+```bash
+
 docker run -p 8080:8080 my-java-app
+```
 4. Access the Application
 Once the container is running, open your browser and go to:
 
-arduino
-Copy code
 http://localhost:8080
 
 API Documentation
