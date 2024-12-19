@@ -1,5 +1,5 @@
 # Backend-Take-Home-Exercise-Fetch
-Fetch 
+Fetch task
 # My Java Application with Docker
 
 This project is a Java application packaged using Docker. Follow the steps below to build, run, and access the application.
